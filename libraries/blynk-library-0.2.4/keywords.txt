@@ -1,0 +1,36 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Blynk	KEYWORD3
+WidgetTerminal	KEYWORD1
+WidgetSD	KEYWORD1
+WidgetLCD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+run	KEYWORD2
+connect	KEYWORD2
+connected	KEYWORD2
+tweet	KEYWORD2
+notify	KEYWORD2
+email	KEYWORD2
+virtualWrite	KEYWORD2
+
+# Handler helpers
+BLYNK_READ	KEYWORD2
+BLYNK_WRITE	KEYWORD2
+BLYNK_ATTACH_WIDGET  KEYWORD2
+
+# Variables binding
+BLYNK_VAR_INT  KEYWORD2
+BLYNK_VAR_LONG  KEYWORD2
+BLYNK_VAR_DOUBLE  KEYWORD2
+BLYNK_VAR_STRING  KEYWORD2
+
+#######################################
+# Literals (LITERAL1)
+#######################################
+BLYNK_DEBUG	LITERAL1
+BLYNK_PRINT	LITERAL1
